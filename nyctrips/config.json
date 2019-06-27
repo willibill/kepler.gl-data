@@ -221,7 +221,15 @@
                         50
                      ],
                      "thickness":2
-                  }
+                  },
+                  "textLabel": {
+				    "field": "prochain_arret",
+					"color": [255, 255, 255],
+					"size": 18,
+					"offset": [0, 0],
+					"anchor": 'start',
+					"alignment": 'center'
+				 }
                },
                "id":"pnidnry",
                "type":"point",
